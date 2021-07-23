@@ -28,13 +28,13 @@ Link to dataset -
      
  ### Model Inference on custom data
  
- [image.png](https://postimg.cc/PLZLTZHL)
+ [![image.png](https://i.postimg.cc/Bv725cwC/image.png)](https://postimg.cc/PLZLTZHL)
  
- [image.png](https://postimg.cc/9rMrzsVH)
+ [![image.png](https://i.postimg.cc/gkyRtPTj/image.png)](https://postimg.cc/9rMrzsVH)
  
- [image.png](https://postimg.cc/SJ2kB4kR)
+ [![image.png](https://i.postimg.cc/yYnxS6Gm/image.png)](https://postimg.cc/SJ2kB4kR)
  
- [image.png](https://postimg.cc/sGBCCPFq)
+ [![image.png](https://i.postimg.cc/prCW8ksW/image.png)](https://postimg.cc/sGBCCPFq)
  
  
  
